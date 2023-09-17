@@ -1,0 +1,6 @@
+Problema:
+Dado n ∈ [5, 15] ingresado por el usuario, el programa debe generar
+aleatoriamente una matriz simétrica n × n (con elementos positivos) o
+solicitar el ingreso de cada elemento de la matriz (según decisión del
+usuario). Además, debe calcular y mostrar un ciclo hamiltoniano que
+minimice la distancia total de la ruta o el tiempo total del recorrido.
